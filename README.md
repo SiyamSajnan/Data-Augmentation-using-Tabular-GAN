@@ -1,7 +1,7 @@
 # Data Augmentation for Auto-MPG Prediction with Tabular GAN
 
 ## Project Description
-This project employs a Generative Adversarial Network (GAN) specifically adapted for tabular data, known as Tabular GAN, to augment the Auto-MPG dataset. By synthesizing additional samples, the project aims to enhance the diversity and size of the dataset, improving the robustness and performance of a downstream Artificial Neural Network (ANN) model for predicting vehicle fuel efficiency (MPG).
+Generative Adversarial Network (GAN) has been specifically adapted for tabular data here, also known as Tabular GAN, to augment the Auto-MPG dataset. By synthesizing additional samples, the project aims to enhance the diversity and size of the dataset, improving the robustness and performance of a downstream Artificial Neural Network (ANN) model for predicting vehicle fuel efficiency (MPG).
 
 ## Models Employed
 - **Tabular GAN**: A GAN architecture adapted for generating realistic synthetic tabular data.
